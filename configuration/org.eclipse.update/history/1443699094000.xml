@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1443691894561" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="SupercellResources.feature" version="1.0.0.201510010930" url="features/SupercellResources.feature_1.0.0.201510010930/" plugin-identifier="SupercellResources">
+		</feature>
+		<feature id="SupercellProcessVisualization.feature" version="1.0.0.201510010930" url="features/SupercellProcessVisualization.feature_1.0.0.201510010930/" plugin-identifier="SupercellProcessVisualization">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="1.4.0.v20150603-0857" url="features/org.eclipse.e4.rcp_1.4.0.v20150603-0857/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.11.0.v20150512-0501" url="features/org.eclipse.emf.ecore_2.11.0.v20150512-0501/">
+		</feature>
+		<feature id="SupercellPlatform.feature" version="1.0.0.201510010930" url="features/SupercellPlatform.feature_1.0.0.201510010930/">
+		</feature>
+		<feature id="Tools.feature" version="1.0.0.201510010930" url="features/Tools.feature_1.0.0.201510010930/" plugin-identifier="Tools">
+		</feature>
+		<feature id="hayday.feature" version="1.0.0.201510010930" url="features/hayday.feature_1.0.0.201510010930/" plugin-identifier="hayday">
+		</feature>
+		<feature id="lib.netrxtx.feature" version="1.0.0.201510010930" url="features/lib.netrxtx.feature_1.0.0.201510010930/" plugin-identifier="lib.netrxtx">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.11.0.v20150512-0501" url="features/org.eclipse.emf.common_2.11.0.v20150512-0501/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.5.0.v20150603-2331" url="features/org.eclipse.rcp_4.5.0.v20150603-2331/">
+		</feature>
+	</site>
+</config>

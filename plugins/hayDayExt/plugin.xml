@@ -1,0 +1,57 @@
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="common.MainViewExt"
+            id="common.mainView"
+            name="Supercell"
+            restorable="true">
+      </view>
+      <view
+            class="supercellprocessvisualization.HayDayVisualizer"
+            id="supercellprocessvisualization.HayDayVisualizer"
+            name="Hay Day Visualization"
+            restorable="true">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            class="hayday.EmptyPerspective"
+            id="hayday.EmptyPerspective"
+            name="Hayday Perspective">
+      </perspective>
+      <perspective
+            class="supercellprocessvisualization.HDVPerspective"
+            id="supercellprocessvisualization.HDVPerspective"
+            name="HDV Perspective">
+      </perspective>
+   </extension>
+   <extension
+         id="hayday.application"
+         name="Supercell"
+         point="org.eclipse.core.runtime.applications">
+      <application
+            cardinality="singleton-global"
+            thread="main"
+            visible="true">
+         <run
+               class="common.Application">
+         </run>
+      </application>
+   </extension>
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="hayday.application"
+            name="Supercell">
+         <property
+               name="appName"
+               value="Supercell">
+         </property>
+      </product>
+   </extension>
+
+</plugin>

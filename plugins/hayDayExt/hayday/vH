@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		        <title>Dev-Host -  - The Ultimate Free File Hosting / File Sharing Service</title>
+
+        <meta name="description" content="Dev-Host is the #1 free file hosting and file sharing service to store and share your file(s) online.  We offer storage sizes and rentention rates that can't be beat.  Whether your a business, developer/programmer, professional, or individual; we can accommodate your needs." />
+        <meta name="keywords" content="Free file hosting, online file storage, file hosting, developer hosting, mobile developer, mobile development, android developer, android development" />
+        <meta name="robots" content="Index, Follow" />
+        <meta name="Googlebot" content="Index, Follow" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0"/>
+
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f2beb6160743969"></script>
+
+		<link type="text/css" href="http://fonts.googleapis.com/css?family=Terminal+Dosis+Light|Inconsolata|PT+Sans|Raleway:100&amp;subset=latin,latin-ext&amp;v2" rel="stylesheet" media="screen" />
+		<link type="text/css" href="/assets/css/dev-host.css" rel="stylesheet" media="screen" />
+		<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Search Dev-Host" />
+
+
+		<script type="text/javascript" src="/assets/js/postmessage.js"></script>
+		<script type="text/javascript" src="/assets/js/jquery.progressbar.js"></script>
+		<script type="text/javascript" src="/assets/js/jquery.colorbox.js"></script>
+		<script type="text/javascript" src="/assets/js/sha1.js"></script>
+		<script type="text/javascript" src="/assets/js/dev-host.js?1414847444"></script>
+		<script type="text/javascript" src="/assets/js/dev-host2.js?1414847444"></script>
+		<script type="text/javascript" src="/assets/js/jquery.zclip.js"></script>
+
+		<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-15180321-2']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>	</head>
+
+	<body>
+		<div id="container">
+			<div id="header">
+								<div id="logo" style="position: relative;">
+					<div onclick="location.href = '/';" style="float: left; width: 156px; height: 33px; margin-top: 10px; cursor: pointer;"></div>
+					<div id="menu">
+						<a href="/">Home</a> &nbsp;|&nbsp; <a href="/search">Search</a> &nbsp;|&nbsp; <a href="/news">News</a> &nbsp;|&nbsp; <a href="/faq">FAQ</a> &nbsp;|&nbsp; <a href="/tos">Terms</a> &nbsp;|&nbsp; <a href="/donate">Donate</a> <img style="position: absolute; top: 5px; margin-left: -21px;" src="/assets/img/new_icon.png">	 &nbsp;|&nbsp; <a href="/support">Support</a> &nbsp;|&nbsp; <a href="/register">Register</a>											</div>
+				</div>			</div>
+			<div id="content">
+				<!--div class="error2" style="margin-right: 3px; width: 860px; box-shadow: 1px 1px 5px #000000; background-color: yellow; color: #000; font-size: 16px; border-radius: 5px; margin-top: 10px; padding: 2px 7px; display: inline-block;">
+					We are looking into the issue with uploads/downloads not working at this time.<br />
+					It would appear to be the act of someone DDOS flooding the server.<br />We are working to get things back in order. Regards, The Dev-Host Team
+				</div-->
+
+				<div class="error" style="margin-right: 3px; width: 860px; box-shadow: 1px 1px 5px #000000; background-color: red; color: #fff; font-size: 16px; border-radius: 5px; margin-top: 10px; padding: 2px 7px; display: none;">
+									</div>
+
+				<div class="error" style="margin-right: 3px; width: 860px; box-shadow: 1px 1px 5px #000000; background-color: green; color: #fff; font-size: 16px; border-radius: 5px; margin-top: 10px; padding: 2px 7px; display: none;">
+									</div>
+
+				
+				<div id="tagline">The Ultimate Free File Hosting / File Sharing Service</div>
+
+				<div style="width: 924px; margin: 0 auto; position: relative; margin-bottom: 10px;">
+					<div style="background: url('/assets/img/v2/white-big-box-top.png'); height: 82px; width: 924px; position: relative;">
+
+					</div>
+					<div style="background: url('/assets/img/v2/white-big-box-middle.png') repeat-y; min-height: 135px; width: 924px;">
+						<div class="big-box-padding" style="position: relative; z-index: 1; top: 25px;">
+
+							
+<!-- PopAds.net Popunder Code for d-h.st -->
+
+<!--script type='text/javascript' src='http://onclickads.net/apu.php?zoneid=11106'></script-->
+
+<!--script type="text/javascript" src="//go.mobisla.com/notice.php?p=15206&interactive=1&pushup=1"></script-->
+
+<!--script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 173188]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  //_pop.push(['default', "PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KY2xpY2tzb3JfZW5hYmxlX2FkaGVyZSA9IGZhbHNlOw0KLy9kZWZhdWx0IHBvcC11bmRlciBob3VzZSBhZCB1cmwNCmNsaWNrc29yX2VuYWJsZV9wb3AgPSB0cnVlOyBjbGlja3Nvcl9mcmVxdWVuY3lDYXAgPSAyNDsNCmR1cmwgPSAnJztjbGlja3Nvcl9tb2JpbGVfcmVkaXJlY3QgPSBmYWxzZTsNCmNsaWNrc29yX2Jhbm5lcl9hZHR5cGUgPSAwOw0KY2xpY2tzb3JfbGF5ZXJfYm9yZGVyX2NvbG9yID0gJyc7DQpjbGlja3Nvcl9sYXllcl9hZF9iZyA9ICcnOyBjbGlja3Nvcl9sYXllcl9hZF9saW5rX2NvbG9yID0gJyc7DQpjbGlja3Nvcl9sYXllcl9hZF90ZXh0X2NvbG9yID0gJyc7IGNsaWNrc29yX3RleHRfbGlua19iZyA9ICcnOw0KY2xpY2tzb3JfdGV4dF9saW5rX2NvbG9yID0gJyc7IGNsaWNrc29yX2VuYWJsZV90ZXh0X2xpbmsgPSBmYWxzZTsNCmNsaWNrc29yX2xheWVyX2Jhbm5lciA9IGZhbHNlOw0KPC9zY3JpcHQ+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8vYWRzLmNsaWNrc29yLmNvbS9uZXdTZXJ2aW5nL3Nob3dBZC5waHA/bmlkPTEmYW1wO3BpZD0zMjE3NTImYW1wO2FkdHlwZT0mYW1wO3NpZD01Mzk5NzYiPjwvc2NyaXB0Pg=="]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0];
+    pa.src = 'http://c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = 'http://c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script-->
+<!-- PopAds.net Popunder Code End -->
+
+<script type="text/javascript" src="/assets/js/jquery.lazyload.js"></script>
+<script>
+	$(document).ready(function() {
+		$("img.lazy").show().lazyload();
+	});
+</script>
+<div style="position: absolute; text-align: center; width: 100%; margin-top: -80px;">
+	<!--script type="text/javascript"><!--
+	google_ad_client = "ca-pub-4387952732945338";
+	/* download top header */
+	google_ad_slot = "7454670163";
+	google_ad_width = 468;
+	google_ad_height = 60;
+	google_page_url = "http://d-h.st/download/00120/vH";
+	//--
+	</script>
+	<script type="text/javascript"
+	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script-->
+</div>
+
+<!--div style="position: absolute; text-align: center; width: 200px; margin-top: -80px; margin-left: -300px;">
+
+</div-->
+
+<!-- Start Tags for d-h.st-MB-SSP101309(6184) - d-h.st-MB-SSP101309(7199) - 160x600 -->
+
+<!-- script type='text/javascript' src='http://a.adorika.net/c/banner_s?tenant=AD&selection=7199&size=160x600&skin=bottom_left&di=1'></script -->
+
+<!-- End Tags for d-h.st-MB-SSP101309(6184) - d-h.st-MB-SSP101309(7199) - 160x600 -->
+
+<h3 style="color: #FFFFFF; font-family: arial; font-size: 12px; font-weight: bold; left: -15px; position: absolute; text-shadow: 0 -1px 1px #000000; top: -60px; text-transform: uppercase; width: 165px;">File Download</h3>
+
+	<div style="display: inline-block; vertical-align: top; text-align: left;">
+		<h2 style="font-size: 20px; text-decoration: underline; margin-left: 10px;">File Not Found</h2>
+		<p>The file you were looking for could not be found, sorry for any inconvenience.</p>
+
+		<p>Possible causes of this error could be:</p>
+			<ol>
+				<li style="list-style-type: circle; margin-left: 25px;">The file expired</li>
+				<li style="list-style-type: circle; margin-left: 25px;">The file was deleted by its owner</li>
+				<li style="list-style-type: circle; margin-left: 25px;">The file was deleted, didn't comply with Terms of Service</li>
+			</ol>
+		<br /><br /><br /><br />
+	</div>
+
+						</div>
+					</div>
+					<div style="background: url('/assets/img/v2/white-big-box-bottom.png'); height: 152px; width: 924px; position: absolute; bottom: 0; z-index: 0; margin-bottom: -20px;"></div>
+				</div>
+
+			</div>
+			<div id="footer-spacer"></div>
+		</div>
+		<div id="footer">
+						<div style="width: 880px; margin: 0 auto; vertical-align: middle; color: #fff;">
+
+				<div style="width: 395px; display: inline-block; text-align: center; margin-top: 3px;">
+					<div id="footer_like_us" style="margin-bottom: 10px; text-decoration: underline; text-shadow: 1px 1px 1px #000000;">Like Us On Your Fav Sites</div>
+					<!-- AddThis Button BEGIN -->
+					<div class="addthis_toolbox addthis_default_style "
+					  addthis:url="http://dev-host.org/"
+						addthis:title="Dev-Host - The Ultimate Free File Hosting / File Sharing Service"
+						addthis:description="Dev-Host is the #1 free file hosting and file sharing service to store and share your file(s) online.  We offer storage sizes and rentention rates that can't be beat.  Whether your a business, developer/programmer, professional, or individual; we can accommodate your needs.">
+
+						<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+						<a class="addthis_button_tweet" addthis:url="dev-host.org"></a>
+						<a class="addthis_button_google_plusone" g:plusone:size="medium" addthis:url="http://dev-host.org/"></a>
+						<a class="addthis_counter addthis_pill_style"></a>
+					</div>
+					<!-- AddThis Button END -->
+				</div>
+
+				<div style="width: 108px; display: inline-block; text-align: center; margin-top: 3px; margin-left: 95px;">
+					<div id="footer_like_us" style="margin-bottom: 3px; text-decoration: underline; text-shadow: 1px 1px 1px #000000;">Follow Us</div>
+					<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+						<a class="addthis_button_facebook_follow" addthis:userid="devhostorg"></a>
+						<a class="addthis_button_twitter_follow" addthis:userid="devhostorg"></a>
+						<a class="addthis_button_google_follow" addthis:userid="u/0/116591984343304621943"></a>
+					</div>
+				</div>
+
+				<div style="text-decoration: underline; text-align: center; display: inline-block; margin-left: 20px; margin-top: 3px; float: right; width: 250px; vertical-align: bottom; text-shadow: 1px 1px 1px #000000;">
+					<div id="footer_like_us" style="margin-bottom: 0px; text-decoration: underline; text-shadow: 1px 1px 1px #000000;">Hosting Provided By</div>
+					<a href="http://affiliate.hivelocity.net/idevaffiliate.php?id=292"><img src="http://d-h.st/assets/img/hosting.png" style="border: 0;" /></a><br />
+				</div>
+
+				<div style="text-align: center; clear: both; display: block; text-decoration: underline; text-shadow: 1px 1px 1px #000000; font-size: 14px;">2014 Dev-Host, All Rights Reserved</div>
+			</div>		</div>
+	</body>
+</html>

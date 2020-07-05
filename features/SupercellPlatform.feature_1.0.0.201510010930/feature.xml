@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="SupercellPlatform.feature"
+      label="Feature"
+      version="1.0.0.201510010930">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <includes
+         id="org.eclipse.rcp"
+         version="4.5.0.v20150603-2331"/>
+
+   <includes
+         id="org.eclipse.emf.ecore"
+         version="2.11.0.v20150512-0501"/>
+
+   <includes
+         id="org.eclipse.emf.common"
+         version="2.11.0.v20150512-0501"/>
+
+   <plugin
+         id="org.eclipse.ui.forms"
+         download-size="310"
+         install-size="623"
+         version="3.6.200.v20150506-2029"
+         unpack="false"/>
+
+</feature>
